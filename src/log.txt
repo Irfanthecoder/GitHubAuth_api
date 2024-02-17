@@ -1,0 +1,3 @@
+::1 - - [17/Feb/2024:13:02:28 +0000] "POST /v1/login HTTP/1.1" 200 184 "-" "PostmanRuntime/7.36.3"
+::1 - - [17/Feb/2024:13:03:19 +0000] "POST /v1/register HTTP/1.1" 409 61 "-" "PostmanRuntime/7.36.3"
+::1 - - [17/Feb/2024:13:03:43 +0000] "POST /v1/register HTTP/1.1" 201 155 "-" "PostmanRuntime/7.36.3"
